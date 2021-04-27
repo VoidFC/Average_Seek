@@ -1,0 +1,13 @@
+C:\Users\fcsam\Desktop\AverageSeek Program\bin\Debug\netcoreapp3.1\AverageSeek Program.exe
+C:\Users\fcsam\Desktop\AverageSeek Program\bin\Debug\netcoreapp3.1\AverageSeek Program.deps.json
+C:\Users\fcsam\Desktop\AverageSeek Program\bin\Debug\netcoreapp3.1\AverageSeek Program.runtimeconfig.json
+C:\Users\fcsam\Desktop\AverageSeek Program\bin\Debug\netcoreapp3.1\AverageSeek Program.runtimeconfig.dev.json
+C:\Users\fcsam\Desktop\AverageSeek Program\bin\Debug\netcoreapp3.1\AverageSeek Program.dll
+C:\Users\fcsam\Desktop\AverageSeek Program\bin\Debug\netcoreapp3.1\AverageSeek Program.pdb
+C:\Users\fcsam\Desktop\AverageSeek Program\obj\Debug\netcoreapp3.1\AverageSeek Program.csprojAssemblyReference.cache
+C:\Users\fcsam\Desktop\AverageSeek Program\obj\Debug\netcoreapp3.1\AverageSeek Program.AssemblyInfoInputs.cache
+C:\Users\fcsam\Desktop\AverageSeek Program\obj\Debug\netcoreapp3.1\AverageSeek Program.AssemblyInfo.cs
+C:\Users\fcsam\Desktop\AverageSeek Program\obj\Debug\netcoreapp3.1\AverageSeek Program.csproj.CoreCompileInputs.cache
+C:\Users\fcsam\Desktop\AverageSeek Program\obj\Debug\netcoreapp3.1\AverageSeek Program.dll
+C:\Users\fcsam\Desktop\AverageSeek Program\obj\Debug\netcoreapp3.1\AverageSeek Program.pdb
+C:\Users\fcsam\Desktop\AverageSeek Program\obj\Debug\netcoreapp3.1\AverageSeek Program.genruntimeconfig.cache
